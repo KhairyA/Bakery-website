@@ -1,0 +1,429 @@
+ *{
+    margin: 0px;
+ }
+ .brd{
+  color: #fff;
+  height: 50px;
+  width: 32px;
+  border: solid 2px rgb(255, 255, 255 ,0.7);
+  border-radius: 24px;
+  text-align: center;
+  margin-left: 49.5%;
+  margin-top: 80px;
+ }
+
+ .navbar{
+   background-color: transparent;
+   padding: 1px;
+ }
+ .p-fimg1{
+   margin-top: 30px;
+   float: left;
+ }
+ .p-fimg2{
+ 
+   float: left;
+ }
+ .p-fimg3{
+
+   float: left;
+ }
+ .p-fimg4{
+
+   float: left;
+ }
+ .logo{
+   margin: 10px;
+   width: 30%;
+   float: left;
+ }
+ .logo img{
+   width: 50%;
+ }
+ .navbar-item ul{
+   list-style-type: none;
+   margin-top: 20px;
+  
+ }
+ .navbar-item ul li{
+   display: inline-block;
+   margin: 0px 20px;
+  
+ }
+ .navbar-item ul li a{
+  font-family: "Alegreya Sans", sans-serif;
+   color: white;
+   text-decoration: none;
+   font-size: 21px;
+ }
+ .navbar-item{
+   padding: 1px;
+   width: 55%;
+   float: right;
+ }
+ .meat{
+   margin-top: 80px;
+   padding: 1px;
+ }
+ .bimg img{
+float: left;
+width: 50%;
+ }
+ .fimg h2{
+   color: #303030;
+   font-family: "Alegreya", serif;
+ }
+ .fimg1 img{
+   margin-top: 30px;
+   width: 80px;
+   float: left;
+ }
+ .fimg2 img{
+
+   width: 80px;
+   float: left;
+ }
+ .fimg3 img{
+
+   width: 80px;
+   float: left;
+ }
+ .fimg4 img{
+  
+   width: 80px;
+   float: left;
+ }
+ .fimg p{
+   margin-top: 30px;
+   font-family: "Alegreya", serif;
+ }
+ .fimg{
+   float: right;
+   width: 40%;
+   font-size: 20px;
+   color: #686868;
+   margin-right:80px ;
+   margin-top: 80px;
+ }
+ .home{
+   
+   padding: 1px;
+   height: 120vh;
+   background-size: cover;
+   background-image: url(photos/drew-coffman-1872.jpg);
+   background-position: center;
+ }
+ .homei{
+text-align: center;
+margin-top: 200px;
+font-family: "Alegreya", serif;
+color: #fff;
+
+ }
+ .homei h2{
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+ }
+ .homei h1{
+   margin-top: 20px;
+   font-size: 40px;
+   font-size: 80px;
+   font-weight: 400;
+ }
+ 
+ .homei p{
+  font-weight: 400;
+   margin-top: 20px;
+   font-size: 25px;
+   font-family: "Alegreya Sans", sans-serif;
+ }
+ .homei .btn1{
+   margin-top: 20px;
+   padding: 20px;
+   background-color: tan;
+   border: solid 2px tan;
+   font-family: "Alegreya", serif;
+   font-size: 16px;
+   font-family: "Open Sans", sans-serif;
+
+ }
+ .homei .btn2{
+   margin-top: 20px;
+   padding: 20px;
+   margin-left: 5px;
+   background-color: transparent;
+   border: solid 2px white;
+   font-size: 16px;
+   font-family: "Open Sans", sans-serif;
+ }
+ .food-k{
+    float: left;
+    width: 30%;
+    text-align: center;
+    font-family: "Alegreya Sans", sans-serif;
+   
+}
+.bake{
+    margin-bottom: 80px;
+}
+.bake div{
+    margin: 16px;
+}
+.bake h2{
+    margin-top: 20px;
+}
+.bake p{
+    margin-top: 20px;
+}
+.food-k img{
+    width: 100%;
+}
+.food-sec3{
+    text-align: center;
+  margin-bottom: 60px;
+  color: #888;
+  font-family: "Alegreya Sans", sans-serif;
+  font-size: 17px;
+}
+.food-sec3{
+    color: #303030;
+    font-family: "Alegreya Sans", sans-serif;
+}
+.clr{
+    clear: both;
+}
+.food-sec3 h2{
+    margin: 25px;
+}
+
+.cont1 p{
+    margin-top: 25px;
+}
+.cont1 img{
+    width: 80px;
+}
+.cont1{
+  font-family: "Alegreya Sans", sans-serif;
+    float: left;
+}
+
+.cont{
+   background-color: rgb(107, 103, 103);
+   margin-bottom: 80px;
+}
+
+.pho1{
+   float: left;
+   
+}
+.man1{
+   float: left;
+   padding: 4px;
+}
+.pho2{
+    float: left;
+    
+ }
+ .man2{
+    float: left;
+    padding: 4px;
+ }
+ .pho3{
+    float: left;
+ }
+ .man3{
+    float: left;
+    padding: 4px;
+ }
+ .about1{
+    
+    width: 25%;
+    float: left;
+    margin-top: 50px;
+    font-family: "Alegreya Sans", sans-serif;
+    font-weight: 400;
+ }
+ .about2{
+    
+    width: 25%;
+    float: left;
+    margin-top: 50px;
+    font-family: "Alegreya Sans", sans-serif;
+    font-weight: 400;
+ }
+ .about3{
+    width: 25%;
+    float: left;
+    margin-top: 50px;
+    font-family: "Alegreya Sans", sans-serif;
+    font-weight: 400;
+ }
+ .about4{
+  padding: 1px;
+    width: 24%;
+    float: left;
+    font-family: "Alegreya Sans", sans-serif;
+    font-weight: 400;
+ }
+
+ .about4 h2{
+  margin-top: 90px;
+  font-family: "Alegreya Sans", sans-serif;
+  color: white;
+  
+ }
+ .about1 p{
+    margin-top: 40px;
+    margin-left: 50px;
+    color: white;
+ }
+ .about1 h2{
+    margin-top: 40px;
+    margin-left: 50px;
+    color: white;
+ }
+ .about1 p{
+    margin-top: 40px;
+    margin-left: 50px;
+    color: white;
+ }
+ .about2 h2{
+    margin-top: 40px;
+    margin-left: 50px;
+    color: white;
+ }
+ .about2 p{
+    margin-top: 40px;
+    margin-left: 50px;
+    color: white;
+ }
+ .about3 h2{
+    margin-top: 40px;
+    margin-left: 50px;
+    color: white;
+ }
+ .about3 p{
+    margin-top: 40px;
+    margin-left: 50px;
+    color: white;
+ }
+ .us{
+background-color: #403d38;
+ font-family: "Alegreya Sans", sans-serif;
+font-size: 17px;
+ }
+ .loca{
+    margin-top: 120px;
+    color: #686868;
+    background-color: #f8f8f8;
+     font-family: "Alegreya Sans", sans-serif;
+    font-size: 17px;
+height: 600px;
+ }
+.loca2{
+    padding: 1px;
+    float: left;
+    width: 50%;
+    font-family: "Alegreya Sans", sans-serif;
+}
+ .loca2 h2{
+    color: #303030;
+    margin-top: 180px;
+    margin-left: 48px;
+ }
+ .loca2 p{
+    margin-top: 30px;
+    margin-left: 48px;
+ }
+ .loca3{
+    float:right;
+    padding: 1px;
+ }
+ .loca3 img{
+    height: 500px;
+    margin-top: 40px;
+ }
+ .imt1{
+float: left;
+
+ }
+ .imt1 img{
+  width: 30px;
+  margin-top: 25px;
+ }
+ .imt2{
+  float: left;
+ }
+ .imt2 img{
+  width: 40px;
+  margin-top: 15px;
+ }
+ .imt3{
+  float: left;
+  
+ }
+ .imt3 img{
+  width: 40px;
+  margin-top: 20px;
+ }
+ .imt4{
+  float: left;
+ margin-top: 15px;
+ }
+ .imt4 img{
+  width: 40px;
+ }
+ .dt1{
+padding: 1px;
+margin-top: 15px;
+float: left;
+
+color: #696969;
+
+ }
+ .dt2{
+  padding-top: 5px;
+float: left;
+color: #696969;
+margin-top: 20px;
+ }
+ .dt3{
+float: left;
+color: #696969;
+
+margin-top: 30px;
+ }
+ .dt4{
+float: left;
+color: #696969;
+margin-top: 25px;
+ }
+ .imgfo {
+  text-align: center;
+ }
+ .imgfo img{
+  width: 25%;
+  margin-top: 40px;
+ }
+ .imgfo1 {
+  text-align: center;
+  padding: 1px;
+ }
+ .imgfo1 img{
+  width: 3.05%;
+  background-color: #484540;
+  border-radius: 50%;
+  margin-top: 35px;
+  margin-bottom: 40;
+ }
+ .footer p{
+  text-align: center;
+  margin-top: 35px;
+  font-family: "Alegreya Sans", sans-serif;
+  color: #777;
+ }
+ .footer{
+  background-color: #353330;
+  font-family: "Alegreya Sans", sans-serif;
+ }
